@@ -1,2 +1,2 @@
 # Python
-Now, I am going to start writing programming, writing programs using Pytho
+Now, I am going to start writing programming, writing programs using Python.
