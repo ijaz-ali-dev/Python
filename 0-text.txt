@@ -1,0 +1,28 @@
+# python keyword
+# statement
+# comment
+# Data types
+# strings
+# numbers
+# list
+# set
+# tuple
+# Dictionary 
+# format
+# operators
+# operator precedence
+# namespace
+# for loop
+# while loop
+# if else
+# switch case
+#  function
+# class
+# inheritance
+# handling in python
+# copy file
+# exception handling
+# try except 
+# lambda
+# generator
+# module
