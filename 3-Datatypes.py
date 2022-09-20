@@ -1,3 +1,4 @@
+#all Datatypes
 # Booleans
 string = 'this is my string';
 print(len(string))
